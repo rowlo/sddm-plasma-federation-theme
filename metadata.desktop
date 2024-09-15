@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=SDDM_Plasma Federation
+Description=SDDM_Plasma Federation Theme
+Author=creativity
+License=GPLv3
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=rw1@rowlo.de 
+Theme-Id=sddmPlasmaFederation
+Theme-API=2.0
+ 
