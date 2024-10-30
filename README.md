@@ -11,3 +11,6 @@ With the exception of the font file the rest of the theme is licensed under the 
 - LCARS GTJ3.ttf, by Jens Göttling, Freeware, non-commercial
 - SDDM_Plasma served as base, by marusyarasskaz, GPLv3
 - background image (adapted), by endarkenment
+
+# Technical details
+- location of installed SDDM themes on Kubuntu 24.04: `/usr/share/sddm/themes/`
